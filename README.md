@@ -1,3 +1,3 @@
 forEpam
 testString
-Hello World!
+null
