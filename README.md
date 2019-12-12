@@ -1,3 +1,2 @@
 forEpam
 testString
-null
